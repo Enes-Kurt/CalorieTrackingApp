@@ -2,7 +2,8 @@
 
 A calorie tracking application developed using Entity Framework, SQL Server, C# and Guna. The user can log in to the system by registering. By adding meals, activities and meals on a daily basis, it can track its calories and update it by viewing its information. You can access previous data and shortening data for other users from the reports section. In addition to these, the user can update their information and change their body measurement values.  
 
-**Application working video :** [![Application working video](https://img.youtube.com/vi/s6OG5LKKVh0/0.jpg)](https://www.youtube.com/watch?v=s6OG5LKKVh0)  
+**Application working video :**   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6OG5LKKVh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Login
 If the user is already registered in the system, he can log in to the system using his e-mail and password, or go to the registration screen by pressing the signup button. In addition, the user can hide his password.  
