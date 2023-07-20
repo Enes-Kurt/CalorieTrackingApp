@@ -2,7 +2,12 @@
 
 A calorie tracking application developed using Entity Framework, SQL Server, C# and Guna. The user can log in to the system by registering. By adding meals, activities and meals on a daily basis, it can track its calories and update it by viewing its information. You can access previous data and shortening data for other users from the reports section. In addition to these, the user can update their information and change their body measurement values.  
 
- 
+- Project developed with Code-First approach and N-Tier Architect.
+- Language : C#
+- Database : MS SQL Server
+- ORM Tool : Entity Framework Core
+- Front-End : Guna UI 
+
 <div align="center">
 <h4>Application working video</h4>
 <a href="https://youtu.be/s6OG5LKKVh0" target="_blank">
